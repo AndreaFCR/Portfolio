@@ -1,0 +1,13 @@
+.home {
+	width: 100%;
+	min-height: 100vh;
+	background: {
+		color: papayawhip;
+		image: url(../images/autum-group-leaves.png);
+		repeat: no-repeat;
+		size: 250px 100vh;
+	}
+	&__container {
+		border: 1px solid red;
+	}
+}
